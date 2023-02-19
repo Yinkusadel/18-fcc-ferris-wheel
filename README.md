@@ -1,6 +1,6 @@
-# Project Name
+# Ferris wheel
 
-> One paragraph statement about the project.
+> A Ferris wheel built by animating elements,transforming them and adjusting their speed.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,16 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- div
+- span
+- CSS
+- media query
+- pseudo class
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://18-fcc-ferris-wheel.netlify.app)
 
 ### Development (Running locally)
 
