@@ -8,12 +8,22 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- div
-- span
-- CSS
-- media query
-- pseudo class
+- ### HTML5 elements
+  - **Block element**
+    `div`
+  - **Inline element**
+    `span`
+- ### CSS properties
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS positioning `absolute`,
+  - CSS `animation`
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `class selector` `pseudo selector` `child selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
